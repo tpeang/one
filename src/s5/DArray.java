@@ -6,6 +6,7 @@ public class DArray {
 	 
 	private long[] theArray;
 	private int nElems;
+	private int eee312313;
 	public DArray(int max){
 		theArray = new long[max];
 		nElems = 0;
